@@ -2,5 +2,5 @@ Include/
 Lib/
 Scripts/
 share/
-ptenv.cfg
+pyvenv.cfg
 .gitattributes
