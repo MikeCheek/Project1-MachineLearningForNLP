@@ -6,3 +6,4 @@ share/
 pyvenv.cfg
 .gitattributes
 reviews.csv
+venv/
