@@ -9,7 +9,7 @@
 ## **1. Introduction**  
 This project focuses on building a recommendation system leveraging TripAdvisor reviews. Starting with a BM25 baseline, the analysis explores advanced NLP models to enhance recommendation performance. Key steps include preprocessing, model evaluation, and the implementation of an ensemble strategy to combine predictions from different models.
 
-[See full project description (PDF)]("./Project_description.pdf")
+[See full project description (PDF)](./Project_description.pdf)
 
 ---
 
