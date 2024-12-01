@@ -7,3 +7,5 @@ pyvenv.cfg
 .gitattributes
 reviews.csv
 venv/
+*.pkl
+*.parquet
