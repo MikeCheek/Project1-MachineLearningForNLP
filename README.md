@@ -54,6 +54,11 @@ Several variants tested:
 ---
 
 ## **4. Results**  
+
+![MSES](./results/mses.png)
+
+![Mean MSES](./results/mean_mses.png)
+
 - **Roberta:** Achieved the lowest average MSE (0.86), outperforming BERT and BM25.  
 - Sentence transformers demonstrated significant gains over the baseline.  
 
